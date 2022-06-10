@@ -6,11 +6,6 @@ go get 	github.com/1558861030/LogToLogServer
 与LogServer 项目 配合使用
 
 
-import (
-	"github.com/1558861030/LogToLogServer/LogToLogServer"
-	"github.com/1558861030/LogToLogServer/router"
-	"github.com/gin-gonic/gin"
-)
 
 func main() {
 
